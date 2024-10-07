@@ -1,4 +1,4 @@
-# Hibernate Player Management System
+# Hibernate Task 1
 
 This project demonstrates how to use Hibernate with Oracle Database to perform CRUD operations (Create, Read, Update, Delete) on a `Player` entity. 
 
