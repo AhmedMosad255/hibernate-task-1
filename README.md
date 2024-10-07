@@ -1,18 +1,6 @@
 # Hibernate Task 1
 
-This project demonstrates how to use Hibernate with Oracle Database to perform CRUD operations (Create, Read, Update, Delete) on a `Player` entity. 
-
-## Table of Contents
-- [Overview](#overview)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Usage](#usage)
-  - [Save Player](#save-player)
-  - [Update Player](#update-player)
-  - [Get Player by ID](#get-player-by-id)
-  - [Delete Player](#delete-player)
-  - [Additional Queries](#additional-queries)
-- [Contributing](#contributing)
+This task demonstrates how to use Hibernate with Oracle Database to perform CRUD operations (Create, Read, Update, Delete) on a `Player` entity. 
 
 ## Overview
 The purpose of this project is to demonstrate the integration of Hibernate with Oracle to manage `Player` data. The following operations are supported:
